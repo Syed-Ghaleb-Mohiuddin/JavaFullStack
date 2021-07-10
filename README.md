@@ -1,1 +1,1 @@
-# Week2LabActivity
+# JavaFullStack
